@@ -7,7 +7,7 @@ Run `npm run tsc` to build the JS files. Located at `src/dist`.
 
 ## To run the application
 
-Run `npm run tsc` for a dev server. Local server can be reached at `http://localhost:5900`.
+Run `npm run start` for a dev server. Local server can be reached at `http://localhost:5900`.
 
 ## Add a new service
 
