@@ -1,0 +1,7 @@
+.idea
+.env
+dist
+node_modules
+_builds
+.DS_Store
+/.keys

@@ -1,0 +1,27 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "Simple Node starter",
+  "main": "src/start.js",
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node ./dist/index.js"
+  },
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^9.0.1",
+    "jwk-to-pem": "^2.0.5",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.4.5",
+    "typescript": "^5.1.6"
+  }
+}
